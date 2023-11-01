@@ -18,3 +18,9 @@ My current knowledge of HTMl:
  - text formatting (strong, emphasis)
  - anchor inclusion
  - image inclusion
+
+
+UPDATE
+
+I have expanded my knowledge to CSS and have styled
+this website to have a look.
